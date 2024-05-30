@@ -1,0 +1,1 @@
+registrationCode:12,name:Jonatas,age:23,courseCode:10;
